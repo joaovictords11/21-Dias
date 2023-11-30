@@ -7,4 +7,4 @@ let arrayDeNumeros = [ '1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
 
 //Codigo
 
-console.log(arrayDeNumeros[numero])
+console.log(arrayDeNumeros[numero] - 1)
